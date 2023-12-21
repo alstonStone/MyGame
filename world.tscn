@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://kr2efsfmatvp"]
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_xwoun"]
+
+[node name="Node2D" type="Node2D"]
+material = SubResource("ShaderMaterial_xwoun")
