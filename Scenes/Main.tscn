@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ky742bbwwacv"]
+
+[ext_resource type="Texture2D" uid="uid://xsoq0ocyeb06" path="res://Assets/Player/Unused Walk and Shoot.png" id="1_c3yv1"]
+
+[node name="Main" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_c3yv1")

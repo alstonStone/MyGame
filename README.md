@@ -1,2 +1,0 @@
-# MyGame
-my godot game
